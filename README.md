@@ -1,0 +1,1 @@
+Notebooks for a machine learning course I taught to beginner students, using a low code ML tool called PyCaret. The lacture note for the course is available [here](https://dreamintelligent.com/wp-content/uploads/2024/12/Low-Code-Machine-Learning-Course.pdf). The course uses the least amount of programming  needed.
